@@ -5,12 +5,11 @@
 }
 *{
     box-sizing: border-box;
-    color: white;
+    color: rgb(230, 229, 229);
 }
 body{
-    background-color: black;
+    background-color: goldenrod;
     font-family: fantasy;
-   
     
 }
 a{
@@ -35,8 +34,7 @@ p{
     margin-bottom: 50px;
     text-align: right;
     font-size: 18px;
-    margin-left: 10px;
-   
+    margin-left: 10px; 
 }
 .u-margin-small{
     margin: 5px;
@@ -49,8 +47,7 @@ p{
 }
 .sobre-imagem{
     width: 45%;
-    display: inline-block;
-   
+    display: inline-block;  
     
 }
 .section-sobre{
@@ -68,7 +65,7 @@ p{
 }
 .btn_dourado{
     background-color: gold;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .btn_trasnparente{
     border: 1px solid gold;
